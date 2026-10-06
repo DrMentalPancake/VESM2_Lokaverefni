@@ -1,4 +1,6 @@
 # VESM2_Lokaverefni
+
+# how to start the machine:
 1. connect esp on computer
 2. Open thonny
 3. Run 1 gui_main Verkefni 6 then run main.py with com3
