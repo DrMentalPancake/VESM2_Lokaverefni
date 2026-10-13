@@ -13,4 +13,3 @@ python3 /home/pi/Desktop/pi_stream.py
 # The project.
 
 The project is a camera on two motors that can make it look up, down, left and right.
-It can detect objects and display what they are onscreen.
